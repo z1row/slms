@@ -18,4 +18,8 @@ Before running the application, configure your MySQL database connection in `app
 # MySQL Database Configuration
 spring.datasource.url=jdbc:mysql://localhost:3306/SCHEME_NAME
 spring.datasource.username=USERNAME
-spring.datasource.password=PASSWORD
+spring.datasource.password=PASSWORD 
+```
+
+## Additional Information
+Swagger API documentation is available at: `/swagger-ui/index.html`
